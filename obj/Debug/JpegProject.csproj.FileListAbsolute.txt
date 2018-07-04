@@ -1,0 +1,10 @@
+C:\School\Comp4932\JpegProject\JpegProject\bin\Debug\JpegProject.exe.config
+C:\School\Comp4932\JpegProject\JpegProject\bin\Debug\JpegProject.exe
+C:\School\Comp4932\JpegProject\JpegProject\bin\Debug\JpegProject.pdb
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.csprojResolveAssemblyReference.cache
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.Form1.resources
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.Properties.Resources.resources
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.csproj.GenerateResource.Cache
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.csproj.CoreCompileInputs.cache
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.exe
+C:\School\Comp4932\JpegProject\JpegProject\obj\Debug\JpegProject.pdb
